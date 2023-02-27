@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="title" align="center">
+  <h3>
+    Hi there 👋
+  </h3>
+</div>
 
 ### :fire: My Stats :
 
